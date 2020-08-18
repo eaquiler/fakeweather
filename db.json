@@ -12,7 +12,15 @@
     "name": "typicode"
   },
   "todos":[
-  {"id":1,"city":"City 1","current":19.8,"type":"F"},
-  {"id":2,"city":"City 2","current":10.2,"type":"F"}
+    {"id":1,"city":"City 1","current":19.8,"type":"C"},
+    {"id":2,"city":"City 2","current":41.3,"type":"C"},
+    {"id":3,"city":"City 3","current":23.6,"type":"C"},
+    {"id":4,"city":"City 4","current":12.7,"type":"C"},
+    {"id":5,"city":"City 5","current":32.1,"type":"F"},
+    {"id":6,"city":"City 6","current":5.2,"type":"C"},
+    {"id":7,"city":"City 7","current":27.2,"type":"C"},
+    {"id":8,"city":"City 8","current":35.9,"type":"C"},
+    {"id":9,"city":"City 9","current":33.3,"type":"C"},
+    {"id":10,"city":"City 10","current":18.2,"type":"C"}
   ]
 }
